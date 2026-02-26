@@ -49,7 +49,6 @@
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
     "clean": "del-cli android/build example/android/build example/android/app/build example/ios/build lib",
     "obfuscate": "javascript-obfuscator lib/commonjs --output lib/obf/commonjs && javascript-obfuscator lib/module --output lib/obf/module",
-    "prepare": "bob build && yarn obfuscate",
     "release": "release-it"
   },
   "keywords": [
