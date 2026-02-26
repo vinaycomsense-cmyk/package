@@ -1,0 +1,1 @@
+{"version":3,"file":"campaignHandler.d.ts","sourceRoot":"","sources":["../../../../src/campaignHandler.ts"],"names":[],"mappings":"AAaA,qBAAa,eAAe;IAC1B,OAAO,CAAC,YAAY,CAAmC;;IAUvD;;;;OAIG;IACG,uBAAuB,CAAC,MAAM,EAAE,MAAM,GAAG,OAAO,CAAC,IAAI,CAAC;IAc5D;;;OAGG;IACH,cAAc,CAAC,QAAQ,EAAE,CAAC,YAAY,EAAE,GAAG,KAAK,IAAI;IAUpD;;OAEG;IACH,eAAe;CAShB;AAGD,eAAO,MAAM,eAAe,iBAAwB,CAAC"}
